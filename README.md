@@ -1,4 +1,4 @@
-# Hey, I'm Noah
+# Hey, I'm Vova (WeeDee)
 
 I reverse-engineer and virtualize Tesla vehicle firmware for research and exploration.
 
